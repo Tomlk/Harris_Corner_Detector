@@ -1,0 +1,10 @@
+﻿生成启动时间为 2018/5/9 12:02:29。
+     1>项目“F:\作业\数字图像处理研讨课\Project4\Project4\Project4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /GL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+     1>cl : 命令行 error D8016: “/ZI”和“/GL”命令行选项不兼容
+     1>已完成生成项目“F:\作业\数字图像处理研讨课\Project4\Project4\Project4.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.48
